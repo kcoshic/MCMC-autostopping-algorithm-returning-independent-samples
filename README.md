@@ -1,1 +1,0 @@
-Return effectively independent samples
